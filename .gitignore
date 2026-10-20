@@ -1,0 +1,16 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.spec
+.idea/
+.vscode/
+.env
+.env.*
+data.json
+settings.json
+history.json
+niches.json
+folder.txt
+*.json.tmp

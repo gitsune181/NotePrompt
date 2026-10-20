@@ -4,6 +4,26 @@
 
 NotePrompt được phát triển từ AOPrompt thành dự án độc lập, có mã nguồn, tên ứng dụng, file thực thi và thư mục dữ liệu riêng. Không cần cài AOPrompt hoặc Auto Prompt.
 
+## Tải về dùng ngay trên Windows
+
+**[Tải NotePrompt.exe](https://github.com/gitsune181/NotePrompt/releases/latest/download/NotePrompt.exe)**, rồi mở file để dùng. Không cần cài Python hay thư viện.
+
+Nút **Code → Download ZIP** tải mã nguồn dành cho người phát triển.
+
+## Hướng dẫn bằng ảnh demo
+
+![Hướng dẫn sử dụng NotePrompt qua 5 bước với dữ liệu mẫu](assets/noteprompt-huong-dan-demo.png)
+
+[Mở ảnh hướng dẫn đầy đủ](assets/noteprompt-huong-dan-demo.png)
+
+1. Bấm **+**, nhập tên mục rồi bấm **Tạo**.
+2. Chọn tab **Prom / Go / Img**, dán nội dung rồi bấm **Lưu**. Ứng dụng cũng tự lưu khi chỉnh sửa.
+3. Tìm và chọn mục cần dùng.
+4. Bấm **Prom**, **Go** hoặc **Img** để sao chép; nút chuyển xanh khi thành công.
+5. Đến nơi cần dùng và nhấn **Ctrl + V**.
+
+Ba nút chỉ sao chép nội dung đã lưu. Ảnh hướng dẫn dùng dữ liệu mẫu.
+
 ## Dữ liệu riêng của mỗi người
 
 - Lần đầu mở, ứng dụng tạo danh sách trống. Bấm **+** để thêm prompt.
